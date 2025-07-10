@@ -1,3 +1,3 @@
-# app.py
+# finca_raiz.py
 
 # Código del scraper o configuración aquí...

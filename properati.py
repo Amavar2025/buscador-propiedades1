@@ -1,3 +1,3 @@
-# app.py
+# properati.py
 
 # Código del scraper o configuración aquí...

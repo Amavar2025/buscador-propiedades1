@@ -1,3 +1,3 @@
-# app.py
+# olx.py
 
 # Código del scraper o configuración aquí...
