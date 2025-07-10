@@ -1,13 +1,10 @@
-metrocuadrado.py ✅
-properati.py ✅
-finca_raiz.py ✅
-ciencuadras.py ⛔ (es el que estamos corrigiendo ahora)
-lahaus.py
-olx.py
-londono.py
-onegrupo.py
-acrecer.py
-albertoalvarez.py
-conaltura.py
-mabelochoa.py
-umbral.py
+def buscar(barrio, habitaciones, precio_max):
+    return [
+        {
+            "Título": "Apartamento en " + barrio,
+            "Habitaciones": habitaciones,
+            "Precio (millones)": precio_max,
+            "Fuente": "Ciencuadras",
+            "Link": "https://www.ciencuadras.com"
+        }
+    ]
